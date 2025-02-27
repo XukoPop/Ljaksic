@@ -222,7 +222,7 @@ function App() {
           <h2>Download VaultCore</h2>
           <p>Get started with VaultCore today. Free, secure, and completely offline.</p>
           <div className="download-options">
-          <a href="https://www.dropbox.com/scl/fi/mpdylvvrgmj6hsax946gs/VaultCore.exe?rlkey=f9llcj9sanvk69y0wttstnb9b&st=wditzx6l&dl=1" className="download-btn" download>
+          <a href="https://www.dropbox.com/scl/fi/mpdylvvrgmj6hsax946gs/VaultCore.exe?rlkey=f9llcj9sanvk69y0wttstnb9b&st=u11ontlz&dl=1" className="download-btn" download>
               <svg viewBox="0 0 24 24" width="24" height="24" fill="#ffffff">
                 <path d="M21 14c0-.55-.45-1-1-1h-2v2h2c.55 0 1-.45 1-1zm-1 3h-2v2h2c.55 0 1-.45 1-1s-.45-1-1-1zm-8-3h-2v4h2v-4zm-6 0h-2c-.55 0-1 .45-1 1s.45 1 1 1h2v-2zm10-1h2c.55 0 1-.45 1-1s-.45-1-1-1h-2v2zm-6 0h2v-2h-2v2zm-6 5h2v-2h-2v2zm14-8c0-.55-.45-1-1-1h-2v2h2c.55 0 1-.45 1-1zm-9-1h-2c-.55 0-1 .45-1 1s.45 1 1 1h2v-2zm6 9h-2v2c0 .55.45 1 1 1s1-.45 1-1v-2zm-6 0h-2v2h2v-2zM3 10c0 .55.45 1 1 1h2v-2H4c-.55 0-1 .45-1 1z" />
               </svg>
