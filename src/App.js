@@ -208,7 +208,7 @@ function App() {
             </div>
             <div className="faq-item">
               <h3>What if I forget my master password?</h3>
-              <p>If you've set up a security question, you can use it to reset your master password. Otherwise, there is no way to recover your data if you forget your master password - this is a security feature that ensures no one can bypass the encryption.</p>
+              <p>If you've set up a security question or saved your 32 digit recovery code, you can use it to reset your master password. Otherwise, there is no way to recover your data if you forget your master password - this is a security feature that ensures no one can bypass the encryption.</p>
             </div>
             <div className="faq-item">
               <h3>Does VaultCore work on mobile devices?</h3>
