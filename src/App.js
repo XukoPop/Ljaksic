@@ -42,7 +42,6 @@ function App() {
               <p>VaultCore is a powerful password manager that keeps your data secure, private, and entirely under your control. Unlike cloud-based alternatives, VaultCore stores everything locally with strong encryption.</p>
               <div className="hero-buttons">
                 <a href="#download" className="download-btn">Download VaultCore</a>
-                <a href="#learn-more" className="learn-more-btn">Learn More</a>
               </div>
             </div>
             <div className="hero-image">
